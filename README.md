@@ -1,6 +1,16 @@
 # Projetos3
 Codificação para cadeira de projetos 3
 
+## Importar o Projeto
+
+Para importar o projeto no Eclipse, siga estas etapas:
+
+1. Abra a pasta `eclipse-workspace` no seu sistema.
+2. Clique com o botão direito dentro da pasta e selecione "Abrir no terminal".
+3. No terminal que abrir, execute o comando: git clone https://github.com/LuizaCalife/Projetos3.git
+Isso irá clonar o repositório dentro do seu `eclipse-workspace`.
+4. O Eclipse deverá reconhecer automaticamente o projeto. Se necessário, você pode importar manualmente indo em **File > Import > Existing Projects into Workspace**, e então selecionar a pasta do projeto.
+
 # Desenvolvimento do Processo
 
 ## SR1
