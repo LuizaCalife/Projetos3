@@ -1,7 +1,7 @@
 # Projetos3
 Codificação para cadeira de projetos 3
 
-## Importar o Projeto
+## Instruções de uso
 
 Para importar o projeto no Eclipse, siga estas etapas:
 
