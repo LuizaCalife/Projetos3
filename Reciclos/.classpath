@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/junit-jupiter-api_5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-jupiter-engine_5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-jupiter-migrationsupport_5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-jupiter-params_5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-platform-commons_1.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-platform-engine_1.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-platform-launcher_1.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-platform-runner_1.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-platform-suite-api_1.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-platform-suite-commons_1.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-platform-suite-engine_1.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-vintage-engine_5.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.apiguardian.api_1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/org.hamcrest_2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit_4.13.2.v20230809-1000.jar"/>
+	<classpathentry kind="lib" path="lib/org.opentest4j_1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/PersistenciaObjetos.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
